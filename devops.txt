@@ -1,1 +1,9 @@
 Hi, this Jaime from softserve inc.
+
+perfect, now:
+$ git log 
+or preferible:
+$ git log | cat
+
+More info:
+git show <code> 
