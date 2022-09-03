@@ -7,3 +7,16 @@ $ git log | cat
 
 More info:
 git show <code> 
+
+$ git branch <NAME>
+$ git checkout <NAME>
+$ git merge //usually in master?
+$ git rebase //in the branch from changes in master -- but seems to me that merge worked too.
+
+$ git archive master --format=zip -output=../name_of_file.zip
+
+// bundel
+
+$ git bundle create ../repo
+
+$ git stash apply // to save uncommited changes into a temporary location
