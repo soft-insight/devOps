@@ -1,3 +1,5 @@
  Hi, this is a file from Eudureka
 
 Adding a new line
+
+adding a newline in the rebase branch
